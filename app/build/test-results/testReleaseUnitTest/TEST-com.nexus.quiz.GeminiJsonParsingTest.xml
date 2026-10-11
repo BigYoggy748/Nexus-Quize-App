@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.nexus.quiz.GeminiJsonParsingTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2026-09-04T20:50:48.468Z" hostname="DESKTOP-56L3OPE" time="0.231">
+  <properties/>
+  <testcase name="testIngestionResponseDeserialization" classname="com.nexus.quiz.GeminiJsonParsingTest" time="0.136"/>
+  <testcase name="testModelDeprecationAndDefaultModel" classname="com.nexus.quiz.GeminiJsonParsingTest" time="0.048"/>
+  <testcase name="testTopicDeepMasteryDeserialization" classname="com.nexus.quiz.GeminiJsonParsingTest" time="0.022"/>
+  <testcase name="testFeynmanAuditResponseDeserialization" classname="com.nexus.quiz.GeminiJsonParsingTest" time="0.01"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,56 @@
+com.nexus.quiz.app-startup-runtime-1.1.1-0 C:\Users\hp\.gradle\caches\9.3.0\transforms\00df5baa1af5982fe9cecd93274fad34\workspace\transformed\startup-runtime-1.1.1\res
+com.nexus.quiz.app-runtime-release-1 C:\Users\hp\.gradle\caches\9.3.0\transforms\0daea1cf7c46dac334d6100636ffd5f4\workspace\transformed\runtime-release\res
+com.nexus.quiz.app-material-icons-core-release-2 C:\Users\hp\.gradle\caches\9.3.0\transforms\0df08b80e3beee599d33b32607ffd974\workspace\transformed\material-icons-core-release\res
+com.nexus.quiz.app-core-runtime-2.2.0-3 C:\Users\hp\.gradle\caches\9.3.0\transforms\12426988be2cea756a3569ed4080336f\workspace\transformed\core-runtime-2.2.0\res
+com.nexus.quiz.app-profileinstaller-1.3.1-4 C:\Users\hp\.gradle\caches\9.3.0\transforms\133b09e14699a2110c6cefa6859ae645\workspace\transformed\profileinstaller-1.3.1\res
+com.nexus.quiz.app-ui-text-release-5 C:\Users\hp\.gradle\caches\9.3.0\transforms\1675713f20d318a13b6989d86d798390\workspace\transformed\ui-text-release\res
+com.nexus.quiz.app-lifecycle-runtime-compose-release-6 C:\Users\hp\.gradle\caches\9.3.0\transforms\17db0e26a44e3dcb51cab1fae36e896f\workspace\transformed\lifecycle-runtime-compose-release\res
+com.nexus.quiz.app-lifecycle-viewmodel-ktx-2.8.7-7 C:\Users\hp\.gradle\caches\9.3.0\transforms\1dbb8a81022b5afd48f5c1e5fa5948e7\workspace\transformed\lifecycle-viewmodel-ktx-2.8.7\res
+com.nexus.quiz.app-ui-tooling-preview-release-8 C:\Users\hp\.gradle\caches\9.3.0\transforms\20f690e9552bcbec493f434be9cae735\workspace\transformed\ui-tooling-preview-release\res
+com.nexus.quiz.app-foundation-release-9 C:\Users\hp\.gradle\caches\9.3.0\transforms\220ab61d993d7dfef46d36be43544427\workspace\transformed\foundation-release\res
+com.nexus.quiz.app-activity-1.9.3-10 C:\Users\hp\.gradle\caches\9.3.0\transforms\28cac125ecbf3e7b9a16a50a41ddd99d\workspace\transformed\activity-1.9.3\res
+com.nexus.quiz.app-material-icons-extended-release-11 C:\Users\hp\.gradle\caches\9.3.0\transforms\2c7d0714dbba92ec2ce5b761be8b9add\workspace\transformed\material-icons-extended-release\res
+com.nexus.quiz.app-navigation-common-ktx-2.8.5-12 C:\Users\hp\.gradle\caches\9.3.0\transforms\3727632c6e451ccc7ee01c47eff8a069\workspace\transformed\navigation-common-ktx-2.8.5\res
+com.nexus.quiz.app-graphics-path-1.0.1-13 C:\Users\hp\.gradle\caches\9.3.0\transforms\3b9dd342f4efb295bdb68db036f4ecf5\workspace\transformed\graphics-path-1.0.1\res
+com.nexus.quiz.app-navigation-common-2.8.5-14 C:\Users\hp\.gradle\caches\9.3.0\transforms\3c72ccd95ce81527b3ebd94a5937e45d\workspace\transformed\navigation-common-2.8.5\res
+com.nexus.quiz.app-foundation-layout-release-15 C:\Users\hp\.gradle\caches\9.3.0\transforms\4391c53358d4dd6b4865b9fc025ea269\workspace\transformed\foundation-layout-release\res
+com.nexus.quiz.app-runtime-saveable-release-16 C:\Users\hp\.gradle\caches\9.3.0\transforms\4b0a092951fc40af41cc2ef713c80d1e\workspace\transformed\runtime-saveable-release\res
+com.nexus.quiz.app-room-ktx-2.6.1-17 C:\Users\hp\.gradle\caches\9.3.0\transforms\4bc6f5cd2f7112325e4dddf5da86a41c\workspace\transformed\room-ktx-2.6.1\res
+com.nexus.quiz.app-sqlite-2.4.0-18 C:\Users\hp\.gradle\caches\9.3.0\transforms\58d762b31392ecbd881402d317624b54\workspace\transformed\sqlite-2.4.0\res
+com.nexus.quiz.app-customview-poolingcontainer-1.0.0-19 C:\Users\hp\.gradle\caches\9.3.0\transforms\5ec838c093ae6de5b10b5b762d31858e\workspace\transformed\customview-poolingcontainer-1.0.0\res
+com.nexus.quiz.app-activity-ktx-1.9.3-20 C:\Users\hp\.gradle\caches\9.3.0\transforms\62bfa313371a39319e10940b87243eab\workspace\transformed\activity-ktx-1.9.3\res
+com.nexus.quiz.app-core-ktx-1.15.0-21 C:\Users\hp\.gradle\caches\9.3.0\transforms\7eb4542e2ace14f318c6cb25184d20bc\workspace\transformed\core-ktx-1.15.0\res
+com.nexus.quiz.app-lifecycle-runtime-ktx-release-22 C:\Users\hp\.gradle\caches\9.3.0\transforms\92d8b41ab4aecc7a180a04fe70f27b52\workspace\transformed\lifecycle-runtime-ktx-release\res
+com.nexus.quiz.app-room-runtime-2.6.1-23 C:\Users\hp\.gradle\caches\9.3.0\transforms\93a5a0b06ad7c71c1a5f67fe859f601b\workspace\transformed\room-runtime-2.6.1\res
+com.nexus.quiz.app-navigation-compose-2.8.5-24 C:\Users\hp\.gradle\caches\9.3.0\transforms\9831446051a5d4ceea6d742fc4633781\workspace\transformed\navigation-compose-2.8.5\res
+com.nexus.quiz.app-lifecycle-runtime-release-25 C:\Users\hp\.gradle\caches\9.3.0\transforms\98cc7cd4829993528ea574d0a1b35ecf\workspace\transformed\lifecycle-runtime-release\res
+com.nexus.quiz.app-animation-core-release-26 C:\Users\hp\.gradle\caches\9.3.0\transforms\9bfc0a8f90ccf04b01d174cd49e45ad1\workspace\transformed\animation-core-release\res
+com.nexus.quiz.app-tracing-1.2.0-27 C:\Users\hp\.gradle\caches\9.3.0\transforms\9d73ae9356bf598d12fb45bf97f5be45\workspace\transformed\tracing-1.2.0\res
+com.nexus.quiz.app-ui-util-release-28 C:\Users\hp\.gradle\caches\9.3.0\transforms\a0eba6b7559d00c06f0ecc6b2d7a2af1\workspace\transformed\ui-util-release\res
+com.nexus.quiz.app-ui-release-29 C:\Users\hp\.gradle\caches\9.3.0\transforms\a102af41cd644532449c13f641d35c8a\workspace\transformed\ui-release\res
+com.nexus.quiz.app-ui-graphics-release-30 C:\Users\hp\.gradle\caches\9.3.0\transforms\a17e1b5e4331c146127b26cf6089f8c7\workspace\transformed\ui-graphics-release\res
+com.nexus.quiz.app-savedstate-ktx-1.2.1-31 C:\Users\hp\.gradle\caches\9.3.0\transforms\a68b4404da41451f5884d6039321fd87\workspace\transformed\savedstate-ktx-1.2.1\res
+com.nexus.quiz.app-animation-release-32 C:\Users\hp\.gradle\caches\9.3.0\transforms\a71a51a707f8a13be0f5fd417ee99c98\workspace\transformed\animation-release\res
+com.nexus.quiz.app-sqlite-framework-2.4.0-33 C:\Users\hp\.gradle\caches\9.3.0\transforms\aa761085b68c51d1090424b413e83124\workspace\transformed\sqlite-framework-2.4.0\res
+com.nexus.quiz.app-material-ripple-release-34 C:\Users\hp\.gradle\caches\9.3.0\transforms\ae9348e410971a0bf8915aa013917612\workspace\transformed\material-ripple-release\res
+com.nexus.quiz.app-activity-compose-1.9.3-35 C:\Users\hp\.gradle\caches\9.3.0\transforms\af60e5c96f408570613a563ceac25090\workspace\transformed\activity-compose-1.9.3\res
+com.nexus.quiz.app-emoji2-1.3.0-36 C:\Users\hp\.gradle\caches\9.3.0\transforms\b20a27c1ebe3e92141508ebde77a9d4b\workspace\transformed\emoji2-1.3.0\res
+com.nexus.quiz.app-ui-unit-release-37 C:\Users\hp\.gradle\caches\9.3.0\transforms\b44c1176e6b69ecdf2a2d4237fbf8e8f\workspace\transformed\ui-unit-release\res
+com.nexus.quiz.app-navigation-runtime-2.8.5-38 C:\Users\hp\.gradle\caches\9.3.0\transforms\c2f67a351bd1bcaaeb99ba283ea29870\workspace\transformed\navigation-runtime-2.8.5\res
+com.nexus.quiz.app-annotation-experimental-1.4.1-39 C:\Users\hp\.gradle\caches\9.3.0\transforms\c56ecb210529b4824a57e19c83d2fa47\workspace\transformed\annotation-experimental-1.4.1\res
+com.nexus.quiz.app-navigation-runtime-ktx-2.8.5-40 C:\Users\hp\.gradle\caches\9.3.0\transforms\cc29abe866bc39ec321bd1ae0b6795ff\workspace\transformed\navigation-runtime-ktx-2.8.5\res
+com.nexus.quiz.app-material3-release-41 C:\Users\hp\.gradle\caches\9.3.0\transforms\d08fc47fe3614a75d36d5a7fa7f65e8d\workspace\transformed\material3-release\res
+com.nexus.quiz.app-lifecycle-viewmodel-release-42 C:\Users\hp\.gradle\caches\9.3.0\transforms\d49cdca43d09ef1a63c9c2e949e035aa\workspace\transformed\lifecycle-viewmodel-release\res
+com.nexus.quiz.app-core-1.15.0-43 C:\Users\hp\.gradle\caches\9.3.0\transforms\d8a87ce8275974707fcbbbb4e5bac78e\workspace\transformed\core-1.15.0\res
+com.nexus.quiz.app-lifecycle-livedata-core-2.8.7-44 C:\Users\hp\.gradle\caches\9.3.0\transforms\f01e5fe69e4c5a9dc3be9105e71ea941\workspace\transformed\lifecycle-livedata-core-2.8.7\res
+com.nexus.quiz.app-lifecycle-process-2.8.7-45 C:\Users\hp\.gradle\caches\9.3.0\transforms\f647db67b9ba913ebfeb66feb1982092\workspace\transformed\lifecycle-process-2.8.7\res
+com.nexus.quiz.app-ui-geometry-release-46 C:\Users\hp\.gradle\caches\9.3.0\transforms\f69caab2f8b9708524af3a8215be9f78\workspace\transformed\ui-geometry-release\res
+com.nexus.quiz.app-lifecycle-viewmodel-compose-release-47 C:\Users\hp\.gradle\caches\9.3.0\transforms\f8f162ee12ed65d05fa94e808f8ece3f\workspace\transformed\lifecycle-viewmodel-compose-release\res
+com.nexus.quiz.app-savedstate-1.2.1-48 C:\Users\hp\.gradle\caches\9.3.0\transforms\fb6263670b07908ed9e7b1451f188460\workspace\transformed\savedstate-1.2.1\res
+com.nexus.quiz.app-lifecycle-viewmodel-savedstate-2.8.7-49 C:\Users\hp\.gradle\caches\9.3.0\transforms\ffce9c8a7f0fc6544951c5b5fcede5b3\workspace\transformed\lifecycle-viewmodel-savedstate-2.8.7\res
+com.nexus.quiz.app-resValues-50 C:\Users\hp\Desktop\Nexus Quiz App\app\build\generated\res\resValues\release
+com.nexus.quiz.app-packageReleaseResources-51 C:\Users\hp\Desktop\Nexus Quiz App\app\build\intermediates\incremental\release\packageReleaseResources\merged.dir
+com.nexus.quiz.app-packageReleaseResources-52 C:\Users\hp\Desktop\Nexus Quiz App\app\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
+com.nexus.quiz.app-release-53 C:\Users\hp\Desktop\Nexus Quiz App\app\build\intermediates\merged_res\release\mergeReleaseResources
+com.nexus.quiz.app-main-54 C:\Users\hp\Desktop\Nexus Quiz App\app\src\main\res
+com.nexus.quiz.app-release-55 C:\Users\hp\Desktop\Nexus Quiz App\app\src\release\res

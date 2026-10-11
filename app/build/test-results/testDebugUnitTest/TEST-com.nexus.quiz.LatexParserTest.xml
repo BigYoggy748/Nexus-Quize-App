@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.nexus.quiz.LatexParserTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-09-04T20:50:52.555Z" hostname="DESKTOP-56L3OPE" time="0.03">
+  <properties/>
+  <testcase name="testRevealedHtmlFormatting" classname="com.nexus.quiz.LatexParserTest" time="0.028"/>
+  <testcase name="testExtractClozeAnswer" classname="com.nexus.quiz.LatexParserTest" time="0.001"/>
+  <testcase name="testOccludedHtmlFormatting" classname="com.nexus.quiz.LatexParserTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
